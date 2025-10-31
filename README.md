@@ -88,3 +88,4 @@ Usan Bootstrap y Bootstrap Icons para una UI simple y limpia. base.html contiene
 
 admin.py
 Registro del modelo para visualizar/editar contactos desde Django Admin.
+
